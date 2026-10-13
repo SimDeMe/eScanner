@@ -1,0 +1,737 @@
+Rettelser i alt: 408
+
+Optælling:
+   9  tilat → til at
+   9  Nifio → Niño
+   6  Nifia, → Niña,
+   5  Deter → Det er
+   5  Inaturgeografi → I naturgeografi
+   5  linjeri → linjer i
+   5  forat → for at
+   4  sigi → sig i
+   4  Nifia → Niña
+   4  Nifo → Niño
+   3  påen → på en
+   3  Nirio → Niño
+   3  iLiseleje → i Liseleje
+   3  ogat → og at
+   3  ILISELEJE → I LISELEJE
+   3  dogikke → dog ikke
+   3  afde → af de
+   3  deti → det i
+   2  Forat → For at
+   2  noktilat → nok til at
+   2  iverdenshavene → i verdenshavene
+   2  Denneudvikling → Denne udvikling
+   2  detåbne → det åbne
+   2  istedet → i stedet
+   2  deter → det er
+   2  Erder → Er der
+   2  attage → at tage
+   2  harman → har man
+   2  adgangtil → adgang til
+   2  ogvelargumenteret → og velargumenteret
+   2  ogtykkelse → og tykkelse
+   2  efterfulgtaf → efterfulgt af
+   2  denanden → den anden
+   2  tilen → til en
+   2  IDanmark → I Danmark
+   2  MANLEVE → MAN LEVE
+   2  inaturen → i naturen
+   2  påanden → på anden
+   2  plastikaffaldeti → plastikaffaldet i
+   2  afsæti → afsæt i
+   1  Erhavnen → Er havnen
+   1  Erjorden → Er jorden
+   1  Nifia— → Niña—
+   1  Itilknytning → I tilknytning
+   1  ogøvelserne → og øvelserne
+   1  ogandet → og andet
+   1  Islutningen → I slutningen
+   1  forholdesigtil → forholde sig til
+   1  sigien → sig i en
+   1  detskete → det skete
+   1  udgangspunkti → udgangspunkt i
+   1  erukendt → er ukendt
+   1  tilatrejse → til at rejse
+   1  lidtaf → lidt af
+   1  øgedesi → øgedes i
+   1  fradeti → fra det i
+   1  iKiribati → i Kiribati
+   1  Idette → I dette
+   1  ijordbundskvalitet → i jordbundskvalitet
+   1  Nirio, → Niño,
+   1  Nino → Niño
+   1  Nifio-situationen → Niño-situationen
+   1  Nina → Niña
+   1  Nifo, → Niño,
+   1  dettropiske → det tropiske
+   1  ertil → er til
+   1  ogkvaliteten → og kvaliteten
+   1  saltvandeti → saltvandet i
+   1  afhængigtaf → afhængigt af
+   1  erregnvandstankene → er regnvandstankene
+   1  erblevet → er blevet
+   1  erden → er den
+   1  Debestår → De består
+   1  delsafde → dels af de
+   1  detisær → det især
+   1  ogstore → og store
+   1  ogjerner → og fjerner
+   1  erstartet → er startet
+   1  fasti → fast i
+   1  ogturister → og turister
+   1  tilindtjening → til indtjening
+   1  løbetaf → løbet af
+   1  ogsom → og som
+   1  erenigei → er enige i
+   1  Mananbefaler → Man anbefaler
+   1  lokaleindbyggerehar → lokale indbyggere har
+   1  påat → på at
+   1  harandre → har andre
+   1  Nifio-fænomenet → Niño-fænomenet
+   1  nemligikke → nemlig ikke
+   1  sigselv → sig selv
+   1  afet → af et
+   1  Gillelejei → Gilleleje i
+   1  fraandre → fra andre
+   1  ILiseleje → I Liseleje
+   1  itilknytningtil → i tilknytning til
+   1  enhavni → en havn i
+   1  imorænebakkerne → i morænebakkerne
+   1  Detmeste → Det meste
+   1  nødttil → nødt til
+   1  ogandre → og andre
+   1  atnedsætte → at nedsætte
+   1  dettetiltag → dette tiltag
+   1  tilatløse → til at løse
+   1  detteikke → dette ikke
+   1  metoderneikke → metoderne ikke
+   1  skati → skat i
+   1  havni → havn i
+   1  klimaeti → klimaet i
+   1  iregionen → i regionen
+   1  koldtsom → koldt som
+   1  riversig → river sig
+   1  transportaf → transport af
+   1  itakt → i takt
+   1  fordampningaf → fordampning af
+   1  nogetaf → noget af
+   1  saltindholdeti → saltindholdet i
+   1  atsynke → at synke
+   1  dogallerede → dog allerede
+   1  isommerhalvåret → i sommerhalvåret
+   1  iPolhavet → i Polhavet
+   1  Dennerute → Denne rute
+   1  atinddæmme → at inddæmme
+   1  ogdermed → og dermed
+   1  ogindre → og indre
+   1  siguden → sig uden
+   1  grundetil → grunde til
+   1  dettidspunkt → det tidspunkt
+   1  derforer → derfor er
+   1  indarbejdeti → indarbejdet i
+   1  erinternationalt → er internationalt
+   1  sigadgang → sig adgang
+   1  oginvesteringer → og investeringer
+   1  iforvejen → i forvejen
+   1  IVestgrønland → I Vestgrønland
+   1  ogtransport → og transport
+   1  iVestgrønland → i Vestgrønland
+   1  Isidste → I sidste
+   1  levei → leve i
+   1  Fraslutningen → Fra slutningen
+   1  ogteknologisk → og teknologisk
+   1  udviklingsom → udvikling som
+   1  Udviklingeni → Udviklingen i
+   1  atder → at der
+   1  gridi → grid i
+   1  iDanmark → i Danmark
+   1  potentialei → potentiale i
+   1  ienergiforsyningen → i energiforsyningen
+   1  detsamtidig → det samtidig
+   1  energikilderikke → energikilder ikke
+   1  detsted → det sted
+   1  hvorder → hvor der
+   1  Deterstadig → Det er stadig
+   1  Deteren → Det er en
+   1  ogtilat → og til at
+   1  attrafikområdet → at trafikområdet
+   1  antalletaf → antallet af
+   1  Dererimidlertid → Der er imidlertid
+   1  iandre → i andre
+   1  springtil → spring til
+   1  sluti → slut i
+   1  Tiludvinding → Til udvinding
+   1  Megabyernei → Megabyerne i
+   1  udfordringat → udfordring at
+   1  brugesi → bruges i
+   1  dettilen → det til en
+   1  afen → af en
+   1  skybrudi → skybrud i
+   1  opgjorttil → opgjort til
+   1  monsunregni → monsunregn i
+   1  Orleansi → Orleans i
+   1  tilkloakken → til kloakken
+   1  deterikke → det er ikke
+   1  ogrekreative → og rekreative
+   1  pågenanvendelse → på genanvendelse
+   1  indbyggerei → indbyggere i
+   1  aktiviteti → aktivitet i
+   1  oget → og et
+   1  detlava → det lava
+   1  atderer → at der er
+   1  Ivarme → I varme
+   1  ogadskillige → og adskillige
+   1  iIsland → i Island
+   1  Dennetype → Denne type
+   1  ogen → og en
+   1  oger → og er
+   1  iudbrud → i udbrud
+   1  tillandbrug → til landbrug
+   1  atjordbunden → at jordbunden
+   1  hvorde → hvor de
+   1  harikke → har ikke
+   1  iudviklingen → i udviklingen
+   1  blivertil → bliver til
+   1  ogevne → og evne
+   1  Pågrund → På grund
+   1  erviljen → er viljen
+   1  atproduktionen → at produktionen
+   1  iluften → i luften
+   1  Deterikke → Det er ikke
+   1  involvereti → involveret i
+   1  Detresultereri → Det resulterer i
+   1  Påtrods → På trods
+   1  errelativt → er relativt
+   1  etafde → et af de
+   1  etstortantal → et stort antal
+   1  atenergipriserne → at energipriserne
+   1  atdet → at det
+   1  ertilsammenligning → er til sammenligning
+   1  attemperaturen → at temperaturen
+   1  fjernvarmebehoveti → fjernvarmebehovet i
+   1  såkan → så kan
+   1  folki → folk i
+   1  ERVULKANER → ER VULKANER
+   1  ogtage → og tage
+   1  oggranit → og granit
+   1  atglohed → at glohed
+   1  idenne → i denne
+   1  overat → over at
+   1  IVang → I Vang
+   1  hovedsageligtaf → hovedsageligt af
+   1  ogslibei → og slibe i
+   1  flittigti → flittigt i
+   1  mentil → men til
+   1  bedretilat → bedre til at
+   1  ogskyernes → og skyernes
+   1  Detskyldes → Det skyldes
+   1  aten → at en
+   1  ogmindst → og mindst
+   1  ermarkant → er markant
+   1  ograger → og rager
+   1  lokkerturistertil → lokker turister til
+   1  faldi → fald i
+   1  ogisolationsfaktor → og isolationsfaktor
+   1  Ognetop → Og netop
+   1  attiltrække → at tiltrække
+   1  godstransporttil → godstransport til
+   1  erbehov → er behov
+   1  derlige → der lige
+   1  kandemonstrere → kan demonstrere
+   1  Iløbet → I løbet
+   1  indbliki → indblik i
+   1  plastiki → plastik i
+   1  attransportere → at transportere
+   1  detertilfældeti → det er tilfældet i
+   1  atplastudledningen → at plastudledningen
+   1  lasti → last i
+   1  dettage → det tage
+   1  atindsamle → at indsamle
+   1  Imange → I mange
+   1  breddenafen → bredden af en
+   1  harregeringen → har regeringen
+   1  Ataffaldshåndteringen → At affaldshåndteringen
+   1  liggeri → ligger i
+   1  Ihavet → I havet
+   1  salti → salt i
+   1  ogtungmetaller → og tungmetaller
+   1  attusindvis → at tusindvis
+   1  isæri → især i
+   1  harsiden → har siden
+   1  Inogle → I nogle
+   1  erlangt → er langt
+   1  ertilfældet → er tilfældet
+   1  luftentilat → luften til at
+   1  iatstige → i at stige
+   1  resultereri → resulterer i
+   1  fravestmod → fra vest mod
+   1  detnordlige → det nordlige
+   1  fori → for i
+   1  detigen → det igen
+   1  drejei → dreje i
+   1  atanskue → at anskue
+   1  udledttil → udledt til
+   1  Afbrændingaf → Afbrænding af
+   1  nødvendighedi → nødvendighed i
+   1  klartil → klar til
+   1  ogrense → og rense
+   1  ogerhvervsmæssige → og erhvervsmæssige
+   1  miljødagi → miljødag i
+   1  somGEOdetektiven → som GEOdetektiven
+   1  detinternationale → det internationale
+   1  ogdens → og dens
+   1  afjeres → af jeres
+   1  placeringi → placering i
+   1  nedbøri → nedbør i
+   1  bevægersig → bevæger sig
+   1  Atnedbøren → At nedbøren
+   1  ogpotentiel → og potentiel
+   1  atjorden → at jorden
+   1  variationi → variation i
+   1  Nifio. → Niño.
+   1  Nifias → Niñas
+   1  hvorvidtdeter → hvorvidt det er
+   1  derersket → der er sket
+   1  Niho-fænome- → Niño-fænome-
+   1  Nifa-situationer → Niña-situationer
+   1  Nifia-begivenheder → Niña-begivenheder
+   1  Nifa. → Niña.
+   1  ogenergiteknologi → og energiteknologi
+   1  oginvestering → og investering
+   1  Detanslås → Det anslås
+   1  Dereringen → Der er ingen
+   1  udsigttil → udsigt til
+   1  atjobudviklingen → at jobudviklingen
+   1  atregionen → at regionen
+   1  velegnettil → velegnet til
+   1  erhøjlandet → er højlandet
+   1  afden → af den
+   1  erjordbundens → er jordbundens
+   1  næringsindholdeti → næringsindholdet i
+   1  atjordforringelse → at jordforringelse
+   1  atmanikke → at man ikke
+   1  erblotat → er blot at
+   1  tilgrundvandet → til grundvandet
+   1  erregnvand → er regnvand
+   1  detnedbørsrige → det nedbørsrige
+   1  kildetil → kilde til
+   1  stadigi → stadig i
+   1  Ogselvom → Og selvom
+   1  ikkeudsigttil → ikke udsigt til
+   1  Dennetendens → Denne tendens
+   1  atændre → at ændre
+   1  Ihartilegnet → I har tilegnet
+   1  ElNifio → El Niño
+   1  LaNifia → La Niña
+
+Pr. side:
+side 3: Erhavnen → Er havnen
+side 5: Erjorden → Er jorden
+side 8: påen → på en
+side 8: Forat → For at
+side 8: Nifia— → Niña—
+side 10: Itilknytning → I tilknytning
+side 11: ogøvelserne → og øvelserne
+side 11: ogandet → og andet
+side 11: Islutningen → I slutningen
+side 14: Forat → For at
+side 14: forholdesigtil → forholde sig til
+side 14: sigien → sig i en
+side 18: detskete → det skete
+side 18: noktilat → nok til at
+side 18: udgangspunkti → udgangspunkt i
+side 18: erukendt → er ukendt
+side 18: tilatrejse → til at rejse
+side 18: iverdenshavene → i verdenshavene
+side 19: Deter → Det er
+side 20: tilat → til at
+side 20: Nirio → Niño
+side 20: lidtaf → lidt af
+side 20: øgedesi → øgedes i
+side 21: fradeti → fra det i
+side 21: iKiribati → i Kiribati
+side 21: Idette → I dette
+side 23: ijordbundskvalitet → i jordbundskvalitet
+side 23: Nirio, → Niño,
+side 23: Nifio → Niño
+side 23: Nifio → Niño
+side 23: Nino → Niño
+side 23: Nifio-situationen → Niño-situationen
+side 23: Nina → Niña
+side 23: Nifio → Niño
+side 23: Nifo, → Niño,
+side 24: dettropiske → det tropiske
+side 24: ertil → er til
+side 27: ogkvaliteten → og kvaliteten
+side 28: saltvandeti → saltvandet i
+side 29: afhængigtaf → afhængigt af
+side 29: erregnvandstankene → er regnvandstankene
+side 30: Denneudvikling → Denne udvikling
+side 30: erblevet → er blevet
+side 30: erden → er den
+side 30: Debestår → De består
+side 30: delsafde → dels af de
+side 30: detåbne → det åbne
+side 30: detisær → det især
+side 30: ogstore → og store
+side 31: ogjerner → og fjerner
+side 32: Denneudvikling → Denne udvikling
+side 33: erstartet → er startet
+side 33: fasti → fast i
+side 33: istedet → i stedet
+side 34: ogturister → og turister
+side 34: tilindtjening → til indtjening
+side 35: løbetaf → løbet af
+side 35: ogsom → og som
+side 36: erenigei → er enige i
+side 37: Mananbefaler → Man anbefaler
+side 38: deter → det er
+side 38: lokaleindbyggerehar → lokale indbyggere har
+side 38: påat → på at
+side 38: harandre → har andre
+side 38: Nifio-fænomenet → Niño-fænomenet
+side 39: nemligikke → nemlig ikke
+side 39: Inaturgeografi → I naturgeografi
+side 39: linjeri → linjer i
+side 41: sigselv → sig selv
+side 41: forat → for at
+side 41: afet → af et
+side 41: Gillelejei → Gilleleje i
+side 42: fraandre → fra andre
+side 42: Erder → Er der
+side 42: iLiseleje → i Liseleje
+side 42: iLiseleje → i Liseleje
+side 42: iLiseleje → i Liseleje
+side 43: ILiseleje → I Liseleje
+side 43: itilknytningtil → i tilknytning til
+side 43: enhavni → en havn i
+side 43: ogat → og at
+side 43: ILISELEJE → I LISELEJE
+side 45: dogikke → dog ikke
+side 47: imorænebakkerne → i morænebakkerne
+side 48: Detmeste → Det meste
+side 51: nødttil → nødt til
+side 52: attage → at tage
+side 52: ogandre → og andre
+side 52: harman → har man
+side 53: ILISELEJE → I LISELEJE
+side 53: noktilat → nok til at
+side 53: atnedsætte → at nedsætte
+side 54: dettetiltag → dette tiltag
+side 54: tilatløse → til at løse
+side 55: ogat → og at
+side 55: detteikke → dette ikke
+side 55: metoderneikke → metoderne ikke
+side 56: skati → skat i
+side 57: tilat → til at
+side 58: adgangtil → adgang til
+side 59: ILISELEJE → I LISELEJE
+side 59: tilat → til at
+side 59: ogvelargumenteret → og velargumenteret
+side 59: istedet → i stedet
+side 59: havni → havn i
+side 59: forat → for at
+side 61: ogat → og at
+side 62: Erder → Er der
+side 63: ogtykkelse → og tykkelse
+side 64: ogtykkelse → og tykkelse
+side 64: klimaeti → klimaet i
+side 65: iregionen → i regionen
+side 65: koldtsom → koldt som
+side 66: riversig → river sig
+side 66: transportaf → transport af
+side 66: itakt → i takt
+side 66: fordampningaf → fordampning af
+side 66: nogetaf → noget af
+side 66: saltindholdeti → saltindholdet i
+side 66: atsynke → at synke
+side 67: dogallerede → dog allerede
+side 67: isommerhalvåret → i sommerhalvåret
+side 68: iPolhavet → i Polhavet
+side 68: Dennerute → Denne rute
+side 70: atinddæmme → at inddæmme
+side 70: ogdermed → og dermed
+side 71: ogindre → og indre
+side 71: siguden → sig uden
+side 72: grundetil → grunde til
+side 72: tilat → til at
+side 74: dettidspunkt → det tidspunkt
+side 74: derforer → derfor er
+side 74: indarbejdeti → indarbejdet i
+side 75: erinternationalt → er internationalt
+side 76: sigadgang → sig adgang
+side 76: tilat → til at
+side 76: oginvesteringer → og investeringer
+side 76: tilat → til at
+side 76: iforvejen → i forvejen
+side 76: IVestgrønland → I Vestgrønland
+side 76: attage → at tage
+side 76: ogtransport → og transport
+side 77: iVestgrønland → i Vestgrønland
+side 79: Isidste → I sidste
+side 81: levei → leve i
+side 81: påen → på en
+side 83: Fraslutningen → Fra slutningen
+side 83: ogteknologisk → og teknologisk
+side 83: udviklingsom → udvikling som
+side 85: Udviklingeni → Udviklingen i
+side 85: atder → at der
+side 89: gridi → grid i
+side 89: iDanmark → i Danmark
+side 90: potentialei → potentiale i
+side 90: afde → af de
+side 90: ienergiforsyningen → i energiforsyningen
+side 90: detsamtidig → det samtidig
+side 91: energikilderikke → energikilder ikke
+side 91: detsted → det sted
+side 91: hvorder → hvor der
+side 92: Deterstadig → Det er stadig
+side 92: Deteren → Det er en
+side 92: ogtilat → og til at
+side 92: attrafikområdet → at trafikområdet
+side 93: antalletaf → antallet af
+side 93: sigi → sig i
+side 93: Dererimidlertid → Der er imidlertid
+side 94: efterfulgtaf → efterfulgt af
+side 94: denanden → den anden
+side 94: iandre → i andre
+side 95: forat → for at
+side 95: springtil → spring til
+side 96: tilen → til en
+side 96: sluti → slut i
+side 96: Tiludvinding → Til udvinding
+side 97: Megabyernei → Megabyerne i
+side 97: udfordringat → udfordring at
+side 97: brugesi → bruges i
+side 98: dettilen → det til en
+side 98: afen → af en
+side 101: skybrudi → skybrud i
+side 101: opgjorttil → opgjort til
+side 101: monsunregni → monsunregn i
+side 101: Orleansi → Orleans i
+side 101: tilkloakken → til kloakken
+side 102: deterikke → det er ikke
+side 102: ogrekreative → og rekreative
+side 104: IDanmark → I Danmark
+side 104: pågenanvendelse → på genanvendelse
+side 105: tilat → til at
+side 105: ogvelargumenteret → og velargumenteret
+side 107: indbyggerei → indbyggere i
+side 109: aktiviteti → aktivitet i
+side 109: oget → og et
+side 111: detlava → det lava
+side 111: atderer → at der er
+side 111: Ivarme → I varme
+side 111: ogadskillige → og adskillige
+side 113: iIsland → i Island
+side 114: Dennetype → Denne type
+side 116: ogen → og en
+side 119: oger → og er
+side 119: iudbrud → i udbrud
+side 120: tillandbrug → til landbrug
+side 120: atjordbunden → at jordbunden
+side 120: hvorde → hvor de
+side 121: harikke → har ikke
+side 122: iudviklingen → i udviklingen
+side 123: Deter → Det er
+side 124: blivertil → bliver til
+side 124: ogevne → og evne
+side 125: Pågrund → På grund
+side 125: erviljen → er viljen
+side 125: forat → for at
+side 126: atproduktionen → at produktionen
+side 126: iluften → i luften
+side 126: Deterikke → Det er ikke
+side 126: detåbne → det åbne
+side 126: involvereti → involveret i
+side 126: Detresultereri → Det resulterer i
+side 127: Påtrods → På trods
+side 127: errelativt → er relativt
+side 128: efterfulgtaf → efterfulgt af
+side 128: etafde → et af de
+side 128: etstortantal → et stort antal
+side 128: tilat → til at
+side 129: atenergipriserne → at energipriserne
+side 129: atdet → at det
+side 129: ertilsammenligning → er til sammenligning
+side 130: attemperaturen → at temperaturen
+side 130: fjernvarmebehoveti → fjernvarmebehovet i
+side 131: sigi → sig i
+side 131: såkan → så kan
+side 131: folki → folk i
+side 132: ERVULKANER → ER VULKANER
+side 133: ogtage → og tage
+side 133: Inaturgeografi → I naturgeografi
+side 133: linjeri → linjer i
+side 137: oggranit → og granit
+side 137: atglohed → at glohed
+side 139: sigi → sig i
+side 139: idenne → i denne
+side 143: overat → over at
+side 143: forat → for at
+side 144: IVang → I Vang
+side 144: hovedsageligtaf → hovedsageligt af
+side 144: ogslibei → og slibe i
+side 147: flittigti → flittigt i
+side 147: deter → det er
+side 149: mentil → men til
+side 149: bedretilat → bedre til at
+side 149: ogskyernes → og skyernes
+side 149: Detskyldes → Det skyldes
+side 149: aten → at en
+side 149: ogmindst → og mindst
+side 150: MANLEVE → MAN LEVE
+side 150: ermarkant → er markant
+side 150: ograger → og rager
+side 150: lokkerturistertil → lokker turister til
+side 151: faldi → fald i
+side 151: ogisolationsfaktor → og isolationsfaktor
+side 152: tilen → til en
+side 152: Ognetop → Og netop
+side 153: attiltrække → at tiltrække
+side 153: godstransporttil → godstransport til
+side 154: MANLEVE → MAN LEVE
+side 154: erbehov → er behov
+side 154: derlige → der lige
+side 155: Inaturgeografi → I naturgeografi
+side 155: kandemonstrere → kan demonstrere
+side 155: linjeri → linjer i
+side 157: Iløbet → I løbet
+side 157: afde → af de
+side 158: indbliki → indblik i
+side 159: plastiki → plastik i
+side 160: attransportere → at transportere
+side 160: detertilfældeti → det er tilfældet i
+side 160: atplastudledningen → at plastudledningen
+side 160: lasti → last i
+side 160: dettage → det tage
+side 161: inaturen → i naturen
+side 162: atindsamle → at indsamle
+side 162: påen → på en
+side 162: Imange → I mange
+side 162: breddenafen → bredden af en
+side 163: påanden → på anden
+side 163: harregeringen → har regeringen
+side 164: Ataffaldshåndteringen → At affaldshåndteringen
+side 164: liggeri → ligger i
+side 164: Ihavet → I havet
+side 164: salti → salt i
+side 164: Deter → Det er
+side 164: ogtungmetaller → og tungmetaller
+side 165: harman → har man
+side 165: attusindvis → at tusindvis
+side 165: deti → det i
+side 165: deti → det i
+side 165: isæri → især i
+side 166: iverdenshavene → i verdenshavene
+side 166: harsiden → har siden
+side 166: Inogle → I nogle
+side 166: erlangt → er langt
+side 166: ertilfældet → er tilfældet
+side 166: luftentilat → luften til at
+side 166: iatstige → i at stige
+side 167: resultereri → resulterer i
+side 167: fravestmod → fra vest mod
+side 167: detnordlige → det nordlige
+side 167: fori → for i
+side 167: detigen → det igen
+side 167: drejei → dreje i
+side 169: afde → af de
+side 170: Deter → Det er
+side 170: dogikke → dog ikke
+side 170: atanskue → at anskue
+side 170: plastikaffaldeti → plastikaffaldet i
+side 170: udledttil → udledt til
+side 171: Afbrændingaf → Afbrænding af
+side 171: dogikke → dog ikke
+side 172: nødvendighedi → nødvendighed i
+side 172: klartil → klar til
+side 172: IDanmark → I Danmark
+side 174: ogrense → og rense
+side 174: plastikaffaldeti → plastikaffaldet i
+side 174: inaturen → i naturen
+side 175: ogerhvervsmæssige → og erhvervsmæssige
+side 175: miljødagi → miljødag i
+side 176: denanden → den anden
+side 177: Inaturgeografi → I naturgeografi
+side 177: linjeri → linjer i
+side 179: somGEOdetektiven → som GEOdetektiven
+side 179: detinternationale → det internationale
+side 180: ogdens → og dens
+side 180: afjeres → af jeres
+side 181: placeringi → placering i
+side 181: nedbøri → nedbør i
+side 183: bevægersig → bevæger sig
+side 183: Atnedbøren → At nedbøren
+side 183: Nirio → Niño
+side 183: Nifia, → Niña,
+side 185: ogpotentiel → og potentiel
+side 186: adgangtil → adgang til
+side 187: atjorden → at jorden
+side 187: variationi → variation i
+side 187: Nirio → Niño
+side 187: Nifia, → Niña,
+side 188: Nifia, → Niña,
+side 188: Nifio. → Niño.
+side 188: Nifia, → Niña,
+side 188: Nifias → Niñas
+side 188: Nifio → Niño
+side 188: Nifia → Niña
+side 188: tilat → til at
+side 188: hvorvidtdeter → hvorvidt det er
+side 188: Nifio → Niño
+side 188: Nifia, → Niña,
+side 188: Deter → Det er
+side 188: derersket → der er sket
+side 189: Nifio → Niño
+side 189: Nifia → Niña
+side 189: Nifo → Niño
+side 189: Nifo → Niño
+side 189: Niho-fænome- → Niño-fænome-
+side 189: Nifo → Niño
+side 189: Nifia, → Niña,
+side 189: Nifa-situationer → Niña-situationer
+side 189: Nifo → Niño
+side 189: Nifia-begivenheder → Niña-begivenheder
+side 189: Nifio → Niño
+side 189: Nifia → Niña
+side 189: Nifio → Niño
+side 189: Nifa. → Niña.
+side 190: ogenergiteknologi → og energiteknologi
+side 190: deti → det i
+side 191: oginvestering → og investering
+side 192: sigi → sig i
+side 192: Detanslås → Det anslås
+side 193: Dereringen → Der er ingen
+side 193: udsigttil → udsigt til
+side 193: atjobudviklingen → at jobudviklingen
+side 193: atregionen → at regionen
+side 194: velegnettil → velegnet til
+side 194: erhøjlandet → er højlandet
+side 194: afden → af den
+side 194: erjordbundens → er jordbundens
+side 194: næringsindholdeti → næringsindholdet i
+side 195: påanden → på anden
+side 196: atjordforringelse → at jordforringelse
+side 197: atmanikke → at man ikke
+side 197: erblotat → er blot at
+side 197: tilgrundvandet → til grundvandet
+side 198: erregnvand → er regnvand
+side 199: detnedbørsrige → det nedbørsrige
+side 199: kildetil → kilde til
+side 199: stadigi → stadig i
+side 200: Ogselvom → Og selvom
+side 200: ikkeudsigttil → ikke udsigt til
+side 201: Dennetendens → Denne tendens
+side 202: afsæti → afsæt i
+side 202: Nifio → Niño
+side 202: Nifia → Niña
+side 204: atændre → at ændre
+side 205: Ihartilegnet → I har tilegnet
+side 205: afsæti → afsæt i
+side 205: Inaturgeografi → I naturgeografi
+side 205: linjeri → linjer i
+side 207: ElNifio → El Niño
+side 208: LaNifia → La Niña
